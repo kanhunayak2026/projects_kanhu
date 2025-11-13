@@ -1,1 +1,1 @@
-# projects_kanhu
+# qr code generator
